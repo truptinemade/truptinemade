@@ -11,6 +11,6 @@ Highly adept at implementing business intelligence projects end-to-end from requ
 - 😄 Pronouns: She/Her
 - ⚡ Skills:
 
-• Programming Languages: Java, Python, Scala
-• Database: Oracle SQL/PLSQL, Amazon DynamoDB, IBM DB2
-• Tools: Cognos BI, Apache Spark, Informatica, Tableau, Jira, Git, Cognos TM1
+> Programming Languages: Java, Python, Scala
+> Database: Oracle SQL/PLSQL, Amazon DynamoDB, IBM DB2
+> Tools: Cognos BI, Apache Spark, Informatica, Tableau, Jira, Git, Cognos TM1
