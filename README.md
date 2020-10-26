@@ -1,6 +1,6 @@
 ### Hi there, I'm Trupti! 👋
 [![LinkedIn][1]][2]
-[1]: https://www.flaticon.com/svg/static/icons/svg/174/174857.svg =25px 
+[1]: https://www.flaticon.com/svg/static/icons/svg/174/174857.svg
 [2]: linkedin.com/in/truptinemade
 
 
