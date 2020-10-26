@@ -16,4 +16,4 @@
 > Tools: Cognos BI, Apache Spark, Informatica, Tableau, Jira, Git, Cognos TM1  
 
 
-[Click me](http://www.google.com){: .btn}
+<button name="button" onclick="http://www.google.com">Click me</button>
