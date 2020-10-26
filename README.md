@@ -1,4 +1,4 @@
-<u> ### Hi there, I'm Trupti! 👋 </u>
+<ins> ### Hi there, I'm Trupti! 👋 </ins>
 [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="25">](https://linkedin.com/in/truptinemade)
 
 
@@ -16,4 +16,3 @@
 > Tools: Cognos BI, Apache Spark, Informatica, Tableau, Jira, Git, Cognos TM1  
 
 
-<button name="button" onclick="http://www.google.com">Click me</button>
