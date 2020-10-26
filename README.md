@@ -1,4 +1,4 @@
-### Hi there, I'm Trupti! 👋
+<u> ### Hi there, I'm Trupti! 👋 </u>
 [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="25">](https://linkedin.com/in/truptinemade)
 
 
