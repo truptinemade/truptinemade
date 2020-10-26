@@ -1,5 +1,5 @@
 ### Hi there, I'm Trupti! 👋
-<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkdin" width="25"/>
+<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkdin" width="25"/>(linkedin.com/in/truptinemade)
 
 
 I'm a Data and Business Intelligence Engineer who is passionate about building data pipelines, working with data to get deeper insights.
@@ -11,6 +11,8 @@ Highly adept at implementing business intelligence projects end-to-end from requ
 - 😄 Pronouns: She/Her
 - ⚡ Skills:
 
-> Programming Languages: Java, Python, Scala
-> Database: Oracle SQL/PLSQL, Amazon DynamoDB, IBM DB2
-> Tools: Cognos BI, Apache Spark, Informatica, Tableau, Jira, Git, Cognos TM1
+> Programming Languages: Java, Python, Scala  
+
+> Database: Oracle SQL/PLSQL, Amazon DynamoDB, IBM DB2  
+
+> Tools: Cognos BI, Apache Spark, Informatica, Tableau, Jira, Git, Cognos TM1  
