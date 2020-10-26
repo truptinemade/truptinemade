@@ -1,7 +1,5 @@
 ### Hi there, I'm Trupti! 👋
 
-<!--
-
 I'm a Data and Business Intelligence Engineer who is passionate about building data pipelines, working with data to get deeper insights.
 
 Highly adept at implementing business intelligence projects end-to-end from requirement gathering to analysis, design, implementation, testing, deployment, and maintenance.
