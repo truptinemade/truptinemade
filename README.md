@@ -1,5 +1,5 @@
 ### Hi there, I'm Trupti! 👋
-![Linkdin](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg)
+![Linkdin](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg = 50*50)
 
 I'm a Data and Business Intelligence Engineer who is passionate about building data pipelines, working with data to get deeper insights.
 
